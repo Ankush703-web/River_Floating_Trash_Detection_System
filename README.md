@@ -53,7 +53,8 @@ This project uses **Faster R-CNN with a ResNet-50 backbone and FPN** (Feature Py
 
 ### 📥 Clone the repo and install dependencies
 
-git clone https://github.com/your-username/river-trash-detection.git
+git clone https://github.com/Ankush703-web/River_Floating_Trash_Detection_System.git
+
 cd river-trash-detection
 
 🧪 Run Inference on a Video
