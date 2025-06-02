@@ -140,7 +140,3 @@ Real-time analytics dashboard using cloud platforms
 Trash heatmaps, trend visualization, and alert logging
 
 Integration with city-level waste management systems
-
-
-## 🙋‍♂️ Author
-### Ankush Naik
